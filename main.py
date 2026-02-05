@@ -1,6 +1,6 @@
 import sqlite3, pandas as pd
 
-df = pd.read_csv('input/legal_full_2026-01-20_23-28-59.csv')
+df = pd.read_csv('data/raw/legal_full_2026-01-20_23-28-59.csv')
 
 ds = sqlite3.connect('output/legal_firms.db')
 
