@@ -2,6 +2,8 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/sql/02_exploration_statistics.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/sql/03_creating_ready_table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/sql/04_final_queries.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/sql/prepare_columns.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
